@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{6D890C6E-68FD-4928-A332-18EB97B5C043}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/InventoriesController.cs">
+    <Files>
+      <File FileName="Controllers/DealerController.cs" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Controllers/InventoriesController.cs" Line="20" Column="10" />
+      <File FileName="Models/Inventory.cs" />
+      <File FileName="Views/Inventories/Create.cshtml" />
+      <File FileName="Models/ErrorViewModel.cs" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Data/ApplicationDbContext.cs" />
+      <File FileName="Views/_ViewStart.cshtml" />
+      <File FileName="Views/Dealer/Index.cshtml" />
+      <File FileName="Views/Dealer/Companies.cshtml" />
+      <File FileName="Models/Company.cs" />
+      <File FileName="Models/Carinfo.cs" />
+      <File FileName="Models/Order.cs" />
+      <File FileName="Models/Orderdetail.cs" />
+      <File FileName="appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cardekho">
+            <Node name="Cardekho" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Dealer" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Inventories" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Cardekho PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

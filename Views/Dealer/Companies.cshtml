@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Cardekho.Models.Inventory>
+@{
+    ViewData["Title"] = "Companies";
+}
+<h1>
+     super cars 
+</h1>
+<ul>
+    @foreach (var Inventory in Model)
+{
+       <li>@Inventory.Name</li>
+}
+</ul>

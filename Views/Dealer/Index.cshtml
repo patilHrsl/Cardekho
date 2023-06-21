@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Dealership Partners";
+}
+
+<h1>Dealership partners</h1>
+<section class="row card-group">
+  <article class="col-lg-4 mb-3">
+            <div class="card mb-4">
+                <div class="card-body text-center h-200">
+                    <a asp-controller="Dealer" asp-action="Companies" asp-route-Name="Toyota">
+                        Toyota
+                    </a>
+                </div>
+            </div>
+        </article>
+        <article class="col-lg-4 mb-3">
+            <div class="card mb-4">
+                <div class="card-body text-center h-200">
+                    <a asp-controller="Dealer" asp-action="Companies" asp-route-Name="Honda">
+                        Honda
+                    </a>
+                </div>
+            </div>
+        </article>
+        <article class="col-lg-4 mb-3">
+            <div class="card mb-4">
+                <div class="card-body text-center h-200">
+                    <a asp-controller="Dealer" asp-action="Companies" asp-route-Name="Tesla">
+                       Tesla
+                    </a>
+                </div>
+            </div>
+        </article>
+        <article class="col-lg-4 mb-3">
+            <div class="card mb-4">
+                <div class="card-body text-center h-200">
+                    <a asp-controller="Dealer" asp-action="Companies" asp-route-Name="GMC">
+                        GMC
+                    </a>
+                </div>
+            </div>
+        </article>
+</section>
